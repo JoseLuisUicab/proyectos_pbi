@@ -4,10 +4,10 @@ La capacidad de transformar grandes volúmenes de datos en información comprens
 de la cual encontrar información clave, contar historias con datos y ayudar a las empresas a tomar decisiones más inteligentes.
 
 ## los proyectos realizados son:
-- analisis de ventas de videojuegos a nivel mundial proyecto 1
-- indicador mundial de mortalidad infantil
-- indicadores de empleados para recursos humanos
-- indicadores de gastos
+- analisis de ventas de videojuegos a nivel mundial [proyecto 1]
+- indicador mundial de mortalidad infantil [proyecto 2]
+- indicadores de empleados para recursos humanos [proyecto 3]
+- indicadores de gastos [proyecto 4]
 
 
 en las carpetas ´podras ver una imagen de cada uno
