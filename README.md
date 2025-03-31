@@ -14,5 +14,5 @@ en las carpetas ´podras ver una imagen de cada uno
 habra mas analisis en los proximos dias y lo estare subiendo conforme termine
 
 
-* Nota los datos mostrados son tomados como prueba de la plataforma ZAGGLE para no mostrar
+* Nota los datos mostrados son tomados como prueba de la plataforma KAGGLE para no mostrar
 datos reales de empresas*
